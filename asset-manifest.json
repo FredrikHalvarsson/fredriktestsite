@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FredrikHalvarsson/fredriktestsite/static/css/main.927d4bf4.css",
+    "main.js": "/FredrikHalvarsson/fredriktestsite/static/js/main.673f68b3.js",
+    "static/js/592.9982c438.chunk.js": "/FredrikHalvarsson/fredriktestsite/static/js/592.9982c438.chunk.js",
+    "index.html": "/FredrikHalvarsson/fredriktestsite/index.html",
+    "main.927d4bf4.css.map": "/FredrikHalvarsson/fredriktestsite/static/css/main.927d4bf4.css.map",
+    "main.673f68b3.js.map": "/FredrikHalvarsson/fredriktestsite/static/js/main.673f68b3.js.map",
+    "592.9982c438.chunk.js.map": "/FredrikHalvarsson/fredriktestsite/static/js/592.9982c438.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.927d4bf4.css",
+    "static/js/main.673f68b3.js"
+  ]
+}
